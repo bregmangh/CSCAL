@@ -1,5 +1,5 @@
 # CSCAL
-Class structural context adversarial loss for cross-domain human action recognition
+Class structure-aware adversarial loss for cross-domain human action recognition
 
 This code is based on TA3N [1],  (https://github.com/cmhungsteve/TA3N). 
 
