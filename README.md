@@ -22,5 +22,5 @@ You can download the pre-trained model from https://pan.baidu.com/s/1I4d4Ijc4IYn
 python CSCAL_test_models.py
 ```
 
-#### For training the model from scratch
+#### For training the model from scratch, and run the script as below:
 python CSCAL_train_adv.py
