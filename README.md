@@ -15,7 +15,8 @@ Download the Dataset from https://github.com/cmhungsteve/TA3N
 
 ## Usage
 #### For testing
-You can simply copy any script to the main folder (same location as all the `.py` files), and run the script as below:
+You can download the pre-trained model from the following link, and run the script as below:
+https://pan.baidu.com/s/1I4d4Ijc4IYnKkTYLLYNIsA, code: yd8h
 ```
 # one example
 python CSCAL_test_models.py
